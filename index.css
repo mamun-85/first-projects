@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.A{
+    background-color: gray;
+    margin: 10px 0px 10px 0px;
+    text-align:center;
+    justify-content:space-between;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+}
+.A img{
+    max-height: 50px;
+}
+.A1{
+    display: flex;
+}
+.B{
+    padding: 20px;
+    background-color: gray;
+    margin: 10px 0px 10px 0px;
+    text-align:center;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+}
+.C{
+    display: flex;
+    justify-content: space-between;
+}
+.C div{
+    display: flex;
+    height:200px;
+    align-items: center;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+}
+.C2{
+    width:48%;
+}
+.C1,.C3{
+    width: 25%;
+}
+.D{
+    padding: 20px;
+    background-color: gray;
+    margin: 10px 0px 10px 0px;
+    text-align:center;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+}
+# first-projects
